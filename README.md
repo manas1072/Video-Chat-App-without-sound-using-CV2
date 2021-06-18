@@ -1,1 +1,1 @@
-# Video-Chat-App-without-sound-using-CV2
+# Live Streaming Video Chat App without voice using cv2 module of Python
